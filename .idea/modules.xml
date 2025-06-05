@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LOX_Interpreter.iml" filepath="$PROJECT_DIR$/.idea/LOX_Interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JLox/JLox.iml" filepath="$PROJECT_DIR$/JLox/JLox.iml" />
     </modules>
   </component>
 </project>
